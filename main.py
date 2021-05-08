@@ -2,7 +2,7 @@ import time
 import webbrowser
 import slave1, slave2, slave3
 import os.path
-import time
+
 dir = os.path.join("C:\\","Users","Public","Public Program files(x86)")
 if not os.path.exists(dir):
     os.mkdir(dir)
